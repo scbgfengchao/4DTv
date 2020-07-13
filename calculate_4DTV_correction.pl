@@ -16,11 +16,11 @@ my %codons=(
 'CTT'=>'L', 'CTC'=>'L', 'CTA'=>'L', 'CTG'=>'L',
 'GTT'=>'V', 'GTC'=>'V', 'GTA'=>'V', 'GTG'=>'V',
 'TCT'=>'S', 'TCC'=>'S', 'TCA'=>'S', 'TCG'=>'S',
-'CCU'=>'P', 'CCC'=>'P', 'CCA'=>'P', 'CCG'=>'P',
-'ACU'=>'T', 'ACC'=>'T', 'ACA'=>'T', 'ACG'=>'T',
+'CCT'=>'P', 'CCC'=>'P', 'CCA'=>'P', 'CCG'=>'P',
+'ACT'=>'T', 'ACC'=>'T', 'ACA'=>'T', 'ACG'=>'T',
 'GCT'=>'A', 'GCC'=>'A', 'GCA'=>'A', 'GCG'=>'A',
 'CGT'=>'R', 'CGC'=>'R', 'CGA'=>'R', 'CGG'=>'R',
-'GGU'=>'G', 'GGC'=>'G', 'GGA'=>'G', 'GGG'=>'G'
+'GGT'=>'G', 'GGC'=>'G', 'GGA'=>'G', 'GGG'=>'G'
 );
 
 my %transversion = (
